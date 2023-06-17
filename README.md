@@ -40,7 +40,3 @@ Here are some ideas to get you started:
 #### &emsp;▪ Phone Number 👉 +82) 010-8947-5740
 #### &emsp; ▪ E-mail 👉 hongsh-dev@gmail.com
 #### &emsp; ▪ Blog 👉 soon!
-
-<br/><br/>
-
-![footer](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&width=400&section=header&text=Thank%20You&fontSize=50&fontColor=FFFFFF)
