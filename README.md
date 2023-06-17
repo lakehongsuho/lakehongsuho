@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&width=400&section=header&text=Welcome%20to%20Hongsh's%20Github%20&fontSize=50&fontColor=FFFFFF)
 
-## 👋 Introduction 
+## Introduction 🖐🏼🖐🏼
  
 #### &emsp; Hey, me hongsh!<br>
 <!-- #### &emsp; I'm looking for a job as an Developer! -->
@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 ## 📞 Contact
 
-#### &emsp;▪ Phone Number 👉 +82) 010-8947-5740
-#### &emsp; ▪ E-mail 👉 hongsh-dev@gmail.com
-#### &emsp; ▪ Blog 👉 soon!
+#### &emsp;▪ Phone Number ➡️ +82) 010-8947-5740
+#### &emsp; ▪ E-mail ➡️ hongsh-dev@gmail.com
+#### &emsp; ▪ Blog ➡️ soon!
