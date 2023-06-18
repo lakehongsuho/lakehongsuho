@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ## Introduction 🖐🏼🖐🏼
  
-#### &emsp; Hey, me hongsh!<br>
+#### &emsp; Hey, me hongsh<br>
 <!-- #### &emsp; I'm looking for a job as an Developer! -->
-#### &emsp; Junior web backend and AI developer!
+#### &emsp; Junior web backend and AI developer
 ## 🛠 Tech Stack
 
 #### &emsp; ▪ Languages
