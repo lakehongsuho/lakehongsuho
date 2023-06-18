@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 #### &emsp; <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 ## 📃 Project
-
-#### &emsp; ▪ update soon
+#### &emsp; <a href="https://docs.google.com/presentation/d/1QVKnqUGQCYZgd3gVvhqEFU8TMOxIWrgw/edit?usp=sharing&ouid=104764283750003171523&rtpof=true&sd=true">AWS 프로젝트 - 영상통화 서비스</a>
 
 ## 📞 Contact
 
