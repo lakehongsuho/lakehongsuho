@@ -36,6 +36,5 @@ Here are some ideas to get you started:
 
 ## 📞 Contact
 
-#### &emsp;▪ Phone Number ➡️ +82) 010-8947-5740
 #### &emsp; ▪ E-mail ➡️ hongsh-dev@gmail.com
 #### &emsp; ▪ Blog ➡️ soon!
