@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🔗 Website
 #### &emsp; ▪ Blog ➡️ [레이크의 에러픽싱 서비스](lake-crimsonn.github.io)
-#### &emsp; ▪ TIL ➡️ [Today I Learned](lake-crimsonn.github.io/TIL)
+#### &emsp; ▪ TIL ➡️ [Today what I Learned](lake-crimsonn.github.io/TIL)
 
 ## 🪄 What I can do
 
