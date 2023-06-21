@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 ## 📞 Contact
 
-#### &emsp; ▪ E-mail ➡️ hongsh-dev@gmail.com
+#### &emsp; ▪ E-mail ➡️ lakecrimsonn@gmail.com
 #### &emsp; ▪ Blog ➡️ soon!
