@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 #### &emsp; ▪ Blog ➡️ [레이크의 에러픽싱 서비스](lake-crimsonn.github.io)
 #### &emsp; ▪ TIL ➡️ [Today I Learned](lake-crimsonn.github.io/TIL)
 
-## 💪🏼 What I can do
+## 🪄 What I can do
 
 #### &emsp; ▪ Languages
 #### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white">
