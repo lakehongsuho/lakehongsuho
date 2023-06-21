@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&width=400&section=header&text=This%20is%20Lake's%20Github%20&fontSize=50&fontColor=FFFFFF)
 
-## Introduction 🖐🏼🖐🏼
+## 🖐🏼 Introduction 🖐🏼🖐🏼
  
-#### &emsp; Hi, me Lake<br>
+#### &emsp; Hi me Lake<br>
 <!-- #### &emsp; I'm looking for a job as an Developer! -->
 #### &emsp; Junior web backend and AI developer
-## 🛠 Tech Stack
+
+## 🔗 Website
+#### &emsp; ▪ Blog ➡️ [레이크의 에러픽싱 서비스](lake-crimsonn.github.io)
+#### &emsp; ▪ TIL ➡️ [Today I Learned](lake-crimsonn.github.io/TIL)
+
+## 💪🏼 What I can do
 
 #### &emsp; ▪ Languages
 #### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white">
@@ -31,10 +36,9 @@ Here are some ideas to get you started:
 #### &emsp; ▪ Cloud
 #### &emsp; <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-## 📃 Project
+## 📚 Project
 #### &emsp; <a href="https://docs.google.com/presentation/d/1QVKnqUGQCYZgd3gVvhqEFU8TMOxIWrgw/edit?usp=sharing&ouid=104764283750003171523&rtpof=true&sd=true">AWS 프로젝트 - 영상통화 서비스</a>
 
 ## 📞 Contact
 
 #### &emsp; ▪ E-mail ➡️ lakecrimsonn@gmail.com
-#### &emsp; ▪ Blog ➡️ soon!
