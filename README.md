@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&width=400&section=header&text=This%20is%Lake's%20Github%20&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&width=400&section=header&text=This%20is%20Lake's%20Github%20&fontSize=50&fontColor=FFFFFF)
 
 ## Introduction 🖐🏼🖐🏼
  
