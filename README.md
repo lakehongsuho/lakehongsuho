@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 #### &emsp; ▪ Languages
 #### &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=sql&logoColor=white">
 #### &emsp; ▪ Framework
-#### &emsp; <img src="https://img.shields.io/badge/express-32CD32?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+#### &emsp; <img src="https://img.shields.io/badge/express-32CD32?style=for-the-badge&logo=express&logoColor=white">
 #### &emsp; ▪ Database
 #### &emsp; <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> 
 
