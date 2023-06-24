@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 ## 📚 Project
 #### &emsp; <a href="https://docs.google.com/presentation/d/1QVKnqUGQCYZgd3gVvhqEFU8TMOxIWrgw/edit?usp=sharing&ouid=104764283750003171523&rtpof=true&sd=true">AWS 프로젝트 - 영상통화 서비스</a>
 
-## 📞 Contact
+## 📧 Contact
 
 #### &emsp; ▪ E-mail ➡️ lakecrimsonn@gmail.com
