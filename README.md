@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### &emsp; Junior web backend and AI developer
 
 ## 🔗 Website
-#### &emsp; ▪ Blog ➡️ [레이크의 에러픽싱 서비스](https://lake-crimsonn.github.io/)
+#### &emsp; ▪ Blog ➡️ [레이크의 코드 스터디](https://lake-crimsonn.github.io/)
 #### &emsp; ▪ TIL ➡️ update soon
 
 ## ✨ What I can do
