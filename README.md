@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### &emsp; Junior web backend and AI developer
 
 ## 🔗 Website
-- #### &emsp; **Blog** ➡️ [레이크의 코드 스터디](https://lake-crimsonn.github.io/)
+- #### &emsp; **Blog** ➡️ https://velog.io/@lakecrimsonn
 
 ## 📚 Project
 - #### &emsp; <a href="https://github.com/lake-crimsonn/suit-project">정장사진 프로젝트</a>
