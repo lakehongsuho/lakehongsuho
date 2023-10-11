@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 **📚 Project**
 - &emsp; ai 커플 사진 프로젝트 ➡️ https://www.loveloveshot.com
-- &emsp; <a href="https://docs.google.com/presentation/d/1QVKnqUGQCYZgd3gVvhqEFU8TMOxIWrgw/edit?usp=sharing&ouid=104764283750003171523&rtpof=true&sd=true">AWS 프로젝트 - 영상통화 서비스</a>
+- &emsp; AWS 프로젝트 ➡️ <a href="https://docs.google.com/presentation/d/1QVKnqUGQCYZgd3gVvhqEFU8TMOxIWrgw/edit?usp=sharing&ouid=104764283750003171523&rtpof=true&sd=true">영상통화 서비스</a>
 
 **✨ What I can do**
 - &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
