@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 
 **🖐🏼 Introduction 😊🖐🏼**
  
-&emsp; Hi me Lake<br/>
-<!-- #### &emsp; I'm looking for a job as an Developer! -->
-&emsp; Junior web backend and AI developer
-
+- &emsp; Hi me Lake, Junior web backend and AI developer.
+  
 **🔗 Website**
 - &emsp; **Blog** ➡️ https://velog.io/@lakecrimsonn
 
