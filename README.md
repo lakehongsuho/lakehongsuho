@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 **🖐🏼 Introduction 😊🖐🏼**
  
-- &emsp; Hi me Lake, Junior web backend and AI developer.
+- &emsp; Hi me Lake, Junior web and AI developer.
   
 **🔗 Website**
 - &emsp; Blog ➡️ https://velog.io/@lakecrimsonn
