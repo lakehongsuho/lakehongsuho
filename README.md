@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - &emsp; **Blog** ➡️ https://velog.io/@lakecrimsonn
 
 **📚 Project**
-- &emsp; ai 커플 사진 프로젝트 https://www.loveloveshot.com
+- &emsp; ai 커플 사진 프로젝트 ➡️ https://www.loveloveshot.com
 - &emsp; <a href="https://docs.google.com/presentation/d/1QVKnqUGQCYZgd3gVvhqEFU8TMOxIWrgw/edit?usp=sharing&ouid=104764283750003171523&rtpof=true&sd=true">AWS 프로젝트 - 영상통화 서비스</a>
 
 **✨ What I can do**
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 **📧 Contact**
 
-- #### &emsp; E-mail ➡️ lakecrimsonn@gmail.com
+- &emsp; e-mail ➡️ lakecrimsonn@gmail.com
