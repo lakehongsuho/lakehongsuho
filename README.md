@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - &emsp; Hi me Lake, Junior web backend and AI developer.
   
 **🔗 Website**
-- &emsp; **Blog** ➡️ https://velog.io/@lakecrimsonn
+- &emsp; Blog ➡️ https://velog.io/@lakecrimsonn
 
 **📚 Project**
 - &emsp; ai 커플 사진 프로젝트 ➡️ https://www.loveloveshot.com
