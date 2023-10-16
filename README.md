@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - &emsp; AI couple photo ➡️ https://www.loveloveshot.com
 - &emsp; AWS project ➡️ <a href="https://docs.google.com/presentation/d/1QVKnqUGQCYZgd3gVvhqEFU8TMOxIWrgw/edit?usp=sharing&ouid=104764283750003171523&rtpof=true&sd=true">video call service</a>
 
-**✨ What I can do**
+**✨ What can I do**
 - &emsp; <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 - &emsp;  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express">
 - &emsp; <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> 
