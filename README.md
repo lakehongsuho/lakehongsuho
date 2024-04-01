@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - &emsp; Blog ➡️ https://velog.io/@lakecrimsonn
 
 **😄 Portfolio**
-- &emsp; Blog ➡️ https://velog.io/@lakecrimsonn
+- &emsp; Korean ➡️ https://lakecrimonn.com
 
 **📧 Contact**
 
