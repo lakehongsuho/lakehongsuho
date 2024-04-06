@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - &emsp; Hi me Lake, Junior web and AI engineer.
   
 **🔗 Website**
-- &emsp; Blog ➡️ https://velog.io/@lakecrimsonn
+- &emsp; Blog ➡️ soon
 
 **😄 Portfolio**
-- &emsp; Korean ➡️ https://lakecrimsonn.com
+- &emsp; Korean ➡️ https://lakehongsuho.com
 
 **📧 Contact**
 
