@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 **🖐🏼 Introduction 😊🖐🏼**
  
-- &emsp; Hi me Lake, Junior web and AI engineer.
+- &emsp; Hi, I am a co-founder of InfiniteMonkeys, fullstack software engineer.
   
 **🔗 Website**
 - &emsp; Blog ➡️ soon
