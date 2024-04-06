@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 **📧 Contact**
 
-- &emsp; e-mail ➡️ lakecrimsonn@gmail.com
+- &emsp; e-mail ➡️ lakehongsuho@gmail.com
