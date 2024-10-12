@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 **🔗 Website**
 - &emsp; Blog ➡️ soon
 
-**😄 Portfolio**
-- &emsp; Korean ➡️ https://lakehongsuho.com
-
 **📧 Contact**
 
 - &emsp; e-mail ➡️ lakehongsuho@gmail.com
