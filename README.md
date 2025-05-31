@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 **🖐🏼 Introduction 😊🖐🏼**
  
 - &emsp; Full-stack web/app developer
-  
-**🔗 Website**
-- &emsp; Blog ➡️ soon
 
 **📧 Contact**
 
