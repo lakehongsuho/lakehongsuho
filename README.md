@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 **🖐🏼 Introduction 😊🖐🏼**
  
-- &emsp; Hi, I am one of the co-founders of InfiniteMonkeys and a full-stack software engineer.
+- &emsp; Full-stack web/app developer
   
 **🔗 Website**
 - &emsp; Blog ➡️ soon
